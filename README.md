@@ -12,7 +12,7 @@ Feede is an elegant, no frills RSS feed reader and aggregator designed to reduce
 
 ## On External Sources
 
-Being purely an RSS feed reader and aggregator, the application may be used by the user to access external RSS feeds. The applicaton is not a news publisher of any sort.
+Being a pure RSS feed reader and aggregator, the application may be used by the user to access external RSS feeds. **The applicaton is not a news publisher of any sort**.
 
 Please note any said RSS feeds may contain text, links to images and external websites.
 
