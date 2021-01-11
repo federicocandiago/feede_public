@@ -12,7 +12,7 @@ Feede è un aggregatore di notizie RSS elegante e senza fronzoli, creato per rid
 
 ## Fonti Esterne
 
-Essendo puramente un lettore ed aggreatore di notizie RSS, l'applicazione potrebbe essere utilizzata per accedere a feed RSS esterni.
+Essendo puramente un lettore ed aggreatore di notizie RSS e non un organo di stampa o di pubblicazione di alcun tipo, l'applicazione potrebbe essere utilizzata per accedere a feed RSS esterni.
 
 E' necessario considerare che tali feed RSS potrebbero contenere testo, link ad immagini ed a siti web esterni.
 
