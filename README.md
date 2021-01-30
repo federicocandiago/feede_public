@@ -9,6 +9,8 @@ Feede is an elegant, no frills RSS feed reader and aggregator designed to reduce
 * [Play Store](https://play.google.com/store/apps/details?id=com.federicocandiago.feede)
 * [Documentazione Italiana](https://github.com/federicocandiago/feede_public/blob/main/README_IT.md)
 * [Submit Feedback](https://github.com/federicocandiago/feede_public/issues)
+* [Donate 💙](https://www.paypal.me/candiago)
+
 
 ## On External Sources
 

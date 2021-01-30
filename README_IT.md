@@ -9,6 +9,7 @@ Feede è un aggregatore di notizie RSS elegante e senza fronzoli, creato per rid
 * [Play Store](https://play.google.com/store/apps/details?id=com.federicocandiago.feede)
 * [English Version](https://github.com/federicocandiago/feede_public/blob/main/README.md)
 * [Fornisci Feedback](https://github.com/federicocandiago/feede_public/issues)
+* [Effettua una donazione 💙](https://www.paypal.me/candiago)
 
 ## Fonti Esterne
 
